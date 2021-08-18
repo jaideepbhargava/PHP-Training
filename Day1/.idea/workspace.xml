@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29ae4c93-fb49-4f07-8387-3787e011ff9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1wqL5R7pxWd5zIvPMw0SoxXpLdY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Script.CombinedExercises.php">
+    <configuration name="CombinedExercises.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../Day1/CombinedExercises.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../Day1/Exercise1.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../Day1/Exercise2.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../Day1/Exercise3.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise4.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../Day1/Exercise4.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.CombinedExercises.php" />
+        <item itemvalue="PHP Script.Exercise4.php" />
+        <item itemvalue="PHP Script.Exercise3.php" />
+        <item itemvalue="PHP Script.Exercise2.php" />
+        <item itemvalue="PHP Script.Exercise1.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29ae4c93-fb49-4f07-8387-3787e011ff9f" name="Default Changelist" comment="" />
+      <created>1629180990595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629180990595</updated>
+      <workItem from="1629180992692" duration="13364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="109" key="#CLI_Interpreters" timestamp="1629181346659">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="109" key="#CLI_Interpreters/0.0.1440.900@0.0.1440.900" timestamp="1629181346659" />
+    <state x="394" y="97" key="#PHP" timestamp="1629181264653">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="394" y="97" key="#PHP/0.0.1440.900@0.0.1440.900" timestamp="1629181264653" />
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom" timestamp="1629196375657">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1629196375657" />
+    <state width="1398" height="256" key="GridCell.Tab.0.center" timestamp="1629196375655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1629196375655" />
+    <state width="1398" height="256" key="GridCell.Tab.0.left" timestamp="1629196375654">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1629196375654" />
+    <state width="1398" height="256" key="GridCell.Tab.0.right" timestamp="1629196375656">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1629196375656" />
+    <state x="540" y="377" key="NewPhpFileDialog" timestamp="1629194076676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="540" y="377" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1629194076676" />
+  </component>
+</project>
