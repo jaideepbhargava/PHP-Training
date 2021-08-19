@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Seeder;
 use App\Models\UserInfo;
 
-class DatabaseSeeder extends Seeder
+class UserInfoSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -14,7 +14,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        //
+        echo "asdfasdf";
         UserInfo::factory()->count(50)->create();
     }
 }
