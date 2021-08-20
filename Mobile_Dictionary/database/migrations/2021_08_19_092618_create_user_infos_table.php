@@ -18,6 +18,7 @@ class CreateUserInfosTable extends Migration
                 $table->string('name');
                 $table->string('mobile_number')->unique();
                 $table->string('email')->unique();
+                $table->softDeletes();
                 $table->timestamps();
             });
     }

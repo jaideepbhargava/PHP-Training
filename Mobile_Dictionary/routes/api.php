@@ -2,6 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use \App\Http\Controllers\UserInfoController;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,6 +15,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/users',[\App\Http\Controllers\UserInfoController::class,'getAllContacts']);
-Route::post('/user',[\App\Http\Controllers\UserInfoController::class,'addContact']);
+Route::get('/users',[UserInfoController::class,'getAllContacts']);
+Route::post('/user',[UserInfoController::class,'addContact']);
+Route::get('/user/byNumber',[UserInfoController::class,'getContactByNumber']);
+Route::get('/user/byName',[UserInfoController::class,'getContactByName']);
+Route::get('/user/byEmail',[UserInfoController::class,'getContactByEmail']);
+Route::delete('/user/byNumber',[UserInfoController::class,'removeContactByMobileNumber']);
+Route::delete('/user/byName',[UserInfoController::class,'removeContactByName']);
+Route::delete('/user/byEmail',[UserInfoController::class,'removeContactByEmail']);
+
 
