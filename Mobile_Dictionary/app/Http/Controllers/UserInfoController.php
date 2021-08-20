@@ -26,8 +26,8 @@ class UserInfoController extends Controller
 
         $validated = $request->validate([
             'name' => 'required|max:255',
-            'email' => 'required|unique:user_infos|max:255',
-            'mobile_number' => 'required|unique:user_infos|max:255'
+            'email' => 'required|unique:user_infos|max:100',
+            'mobile_number' => 'required|unique:user_infos|max:20'
         ]);
 
         return $userInfoService->addContact($request);
@@ -44,8 +44,7 @@ class UserInfoController extends Controller
 
                 return response()->json([
                     'success'=>false,
-                    'status'=>400,
-                    'message'=>'Name can not be null']);
+                    'message'=>'Name can not be null'],400);
             }
 
 
@@ -55,8 +54,7 @@ class UserInfoController extends Controller
 
             return response()->json([
                 'success'=>false,
-                'status'=>400,
-                'message'=>'Name can not be null']);
+                'message'=>'Name can not be null'],400);
         }
     }
 
@@ -71,8 +69,7 @@ class UserInfoController extends Controller
 
                 return response()->json([
                     'success'=>false,
-                    'status'=>400,
-                    'message'=>'Number can not be null']);
+                    'message'=>'Number can not be null'],400);
             }
 
 
@@ -82,8 +79,7 @@ class UserInfoController extends Controller
 
             return response()->json([
                 'success'=>false,
-                'status'=>400,
-                'message'=>'Number can not be null']);
+                'message'=>'Number can not be null'],400);
         }
     }
 
@@ -98,8 +94,7 @@ class UserInfoController extends Controller
 
                 return response()->json([
                     'success'=>false,
-                    'status'=>400,
-                    'message'=>'Email can not be null']);
+                    'message'=>'Email can not be null'],400);
             }
 
 
@@ -109,8 +104,7 @@ class UserInfoController extends Controller
 
             return response()->json([
                 'success'=>false,
-                'status'=>400,
-                'message'=>'Email can not be null']);
+                'message'=>'Email can not be null'],400);
         }
     }
 
